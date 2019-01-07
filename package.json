@@ -1,0 +1,23 @@
+{
+  "name": "link-spider2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuchenchenBoy/link-spider2.git"
+  },
+  "author": "xuchenchenboy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuchenchenBoy/link-spider2/issues"
+  },
+  "homepage": "https://github.com/xuchenchenBoy/link-spider2#readme",
+  "dependencies": {
+    "superagent": "^4.1.0",
+    "superagent-proxy": "^2.0.0"
+  }
+}
